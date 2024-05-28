@@ -29,3 +29,12 @@ plt.plot(soil_data
 
 Select
 ```
+![](356134.jpg)
+
+|Name|Class|Location|
+|---------|---------|---------|
+|Eddie|Data Analysis|Ikorodu|
+|Jane|Data Analysis|Ajao|
+|Damilare|Data Analysis|Eko|
+|Adura|Data Analysis|Camp Ground|
+|Faith Guru|Data Analysis|Camp Ground|
